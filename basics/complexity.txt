@@ -1,0 +1,12 @@
+Worst case Time complexity order -- 
+O(1)<O(log n)<O(n)<O(nlogn)<O(n**2)<O(n***3)<O(2**n)<O(n!)
+
+Constraints (1<n<10**k)
+< 10**8 -- O(log n)<O(n)
+< 10**6 -- O(nlog n)
+< 10**4 -- O(n**2)
+< 2000 -- O(n**2 logn)
+< 400 -- O(n**3)
+< 100 -- O(n**4)
+< 15-18 -- O(2**n * n**2)
+< 10-11 -- O(n!),O(n**6)
